@@ -2,6 +2,7 @@
 
 🌈 Introducing "Rainbow Jump!" - the ultimate endless jumper that will send you soaring through a world of colors and challenges! 🌈
 
+
 ✨ Key Features: ✨
 
 🎮 Simple, one-touch controls: Just tap to jump and navigate your way through the rainbow obstacles!
