@@ -1,6 +1,6 @@
 # Rainbow Jump🌈
 
-🌈 Introducing "Rainbow Jump!" - the ultimate endless jumper that will send you soaring through a world of colors and challenges! 🌈
+Asset store link: https://assetstore.unity.com/packages/slug/246299 
 
 
 ✨ Key Features: ✨
